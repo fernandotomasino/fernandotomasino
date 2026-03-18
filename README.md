@@ -10,4 +10,4 @@
 - 🚀 Me gusta trabajar en equipo
 - ✈️ Me gusta sacar mi máximo potencial
 
-## Cualquier cosa, siempre estaré contento para cualquier cosa!
+## Cualquier cosa, siempre estaré contento para hablar
