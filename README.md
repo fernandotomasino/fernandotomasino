@@ -1,16 +1,13 @@
-## Hi there 👋
+## ¡Soy Fernando Tomasino! 😄
 
-<!--
-**fernandotomasino/fernandotomasino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de primer año de ingeniería informática apasionado por el desarrollo web, la programación y la tecnología
 
-Here are some ideas to get you started:
+## ¡Conóceme más! 🔎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👶 Tengo 18 años
+- 🏈 Me gustan los deportes
+- 🤓 Tengo habilidades numéricas
+- 🚀 Me gusta trabajar en equipo
+- ✈️ Me gusta sacar mi máximo potencial
+
+## Cualquier cosa, siempre estaré contento para cualquier cosa!
